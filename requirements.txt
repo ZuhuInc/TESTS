@@ -1,0 +1,10 @@
+keyboard
+subprocess
+os
+requests
+pymem
+time
+mouse
+pynput
+win32gui
+random

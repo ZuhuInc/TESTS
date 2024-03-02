@@ -1,6 +1,6 @@
 '''
 Created using https://github.com/a2x/cs2-dumper
-Thu, 29 Feb 2024 17:44:57 +0000
+Sat, 2 Mar 2024 10:04:46 +0000
 '''
 
 class client_dll: # client.dll

@@ -8,3 +8,4 @@ m_vOldOrigin = 0x127C
 m_hPlayerPawn = 0x7E4
 m_iIDEntIndex = 0x15A4
 
+

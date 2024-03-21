@@ -1,6 +1,6 @@
 #offsets.py
-dwEntityList = 0x18BFC08
-dwLocalPlayerPawn = 0x17341B8
+dwEntityList = 0x18C2D58
+dwLocalPlayerPawn = 0x17371A8
 #client.dll.py
 m_iTeamNum = 0x3CB
 m_iHealth = 0x334

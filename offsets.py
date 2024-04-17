@@ -4,7 +4,7 @@ Thu, 21 Mar 2024 06:45:44 +0000
 '''
 
 class client_dll: # client.dll
-    dwEntityList = 0x18C2D58
+    dwEntityList = 0x18C1DE8
     dwForceAttack = 0x1730020
     dwForceAttack2 = 0x17300B0
     dwForceBackward = 0x17302F0
@@ -20,7 +20,7 @@ class client_dll: # client.dll
     dwGlowManager = 0x19200C0
     dwInterfaceLinkList = 0x1A118D8
     dwLocalPlayerController = 0x1912578
-    dwLocalPlayerPawn = 0x17371A8
+    dwLocalPlayerPawn = 0x17361E8
     dwPlantedC4 = 0x1928AD8
     dwPrediction = 0x1737070
     dwSensitivity = 0x19209E8

@@ -2,7 +2,7 @@
   "client_dll": {
     "data": {
       "dwEntityList": {
-        "value": 25959864,
+        "value": 25959912,
         "comment": null
       },
       "dwForceAttack": {
@@ -62,7 +62,7 @@
         "comment": null
       },
       "dwLocalPlayerController": {
-        "value": 26285432,
+        "value": 26285480,
         "comment": null
       },
       "dwLocalPlayerPawn": {
@@ -86,7 +86,7 @@
         "comment": null
       },
       "dwViewMatrix": {
-        "value": 26358192,
+        "value": 26358240,
         "comment": null
       },
       "dwViewRender": {

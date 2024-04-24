@@ -7222,7 +7222,7 @@
         "comment": "int32_t"
       },
       "m_iIDEntIndex": {
-        "value": 5540,
+        "value": 5532,
         "comment": "CEntityIndex"
       },
       "m_iMoveState": {

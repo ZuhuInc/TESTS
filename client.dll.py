@@ -1995,7 +1995,7 @@ class C_CSPlayerPawnBase: # C_BasePlayerPawn
     m_nLastKillerIndex = 0x1598 # CEntityIndex
     m_nLastConcurrentKilled = 0x159C # int32_t
     m_nDeathCamMusic = 0x15A0 # int32_t
-    m_iIDEntIndex = 0x159C # CEntityIndex
+    m_iIDEntIndex = 0x13B0 # CEntityIndex
     m_delayTargetIDTimer = 0x15A8 # CountdownTimer
     m_iTargetedWeaponEntIndex = 0x15C0 # CEntityIndex
     m_iOldIDEntIndex = 0x15C4 # CEntityIndex

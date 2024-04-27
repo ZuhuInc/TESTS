@@ -62,11 +62,11 @@
         "comment": null
       },
       "dwLocalPlayerController": {
-        "value": 26303512,
+        "value": 26303496,
         "comment": null
       },
       "dwLocalPlayerPawn": {
-        "value": 24355784,
+        "value": 24355768,
         "comment": null
       },
       "dwPlantedC4": {
@@ -86,7 +86,7 @@
         "comment": null
       },
       "dwViewMatrix": {
-        "value": 26376368,
+        "value": 26376352,
         "comment": null
       },
       "dwViewRender": {

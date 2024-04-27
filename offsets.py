@@ -15,7 +15,7 @@ class client_dll: # client.dll
     dwGlowManager = 0x19200C0
     dwInterfaceLinkList = 0x1A118D8
     dwLocalPlayerController = 0x1912578
-    dwLocalPlayerPawn = 0x173A3C8
+    dwLocalPlayerPawn = 0x173A3B8
     dwPlantedC4 = 0x1928AD8
     dwPrediction = 0x1737070
     dwSensitivity = 0x19209E8

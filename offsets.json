@@ -2,7 +2,7 @@
   "client_dll": {
     "data": {
       "dwEntityList": {
-        "value": 25984920,
+        "value": 26882856,
         "comment": null
       },
       "dwForceAttack": {
@@ -26,7 +26,7 @@
         "comment": null
       },
       "dwForceJump": {
-        "value": 24315184,
+        "value": 24315185,
         "comment": null
       },
       "dwForceLeft": {
@@ -62,11 +62,11 @@
         "comment": null
       },
       "dwLocalPlayerController": {
-        "value": 26310312,
+        "value": 27210392,
         "comment": null
       },
       "dwLocalPlayerPawn": {
-        "value": 24360296,
+        "value": 25221912,
         "comment": null
       },
       "dwPlantedC4": {
@@ -86,7 +86,7 @@
         "comment": null
       },
       "dwViewMatrix": {
-        "value": 26383408,
+        "value": 27284176,
         "comment": null
       },
       "dwViewRender": {

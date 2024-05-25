@@ -4682,7 +4682,7 @@
         "comment": "uint32_t"
       },
       "m_fFlags": {
-        "value": 980,
+        "value": 972,
         "comment": "uint32_t"
       },
       "m_flAnimTime": {

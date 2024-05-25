@@ -333,7 +333,7 @@
         "comment": "uint32_t"
       },
       "m_iszPlayerName": {
-        "value": 1592,
+        "value": 1584,
         "comment": "char[128]"
       },
       "m_nFinalPredictedTick": {
@@ -594,7 +594,7 @@
   "CBombTarget": {
     "data": {
       "m_bBombPlantedHere": {
-        "value": 3288,
+        "value": 3280,
         "comment": "bool"
       }
     },
@@ -871,7 +871,7 @@
         "comment": "CHandle<CCSPlayerController>"
       },
       "m_hPlayerPawn": {
-        "value": 2020,
+        "value": 2012,
         "comment": "CHandle<C_CSPlayerPawn>"
       },
       "m_iCoachingTeam": {
@@ -4762,7 +4762,7 @@
         "comment": "int32_t"
       },
       "m_iHealth": {
-        "value": 820,
+        "value": 804,
         "comment": "int32_t"
       },
       "m_iMaxHealth": {
@@ -4770,7 +4770,7 @@
         "comment": "int32_t"
       },
       "m_iTeamNum": {
-        "value": 971,
+        "value": 963,
         "comment": "uint8_t"
       },
       "m_lifeState": {
@@ -4850,7 +4850,7 @@
         "comment": "CCollisionProperty*"
       },
       "m_pGameSceneNode": {
-        "value": 792,
+        "value": 776,
         "comment": "CGameSceneNode*"
       },
       "m_pRenderComponent": {
@@ -5308,7 +5308,7 @@
         "comment": "sky3dparams_t"
       },
       "m_vOldOrigin": {
-        "value": 4732,
+        "value": 4724,
         "comment": "Vector"
       },
       "m_vecLastCameraSetupLocalOrigin": {
@@ -7222,7 +7222,7 @@
         "comment": "int32_t"
       },
       "m_iIDEntIndex": {
-        "value": 5040,
+        "value": 5032,
         "comment": "CEntityIndex"
       },
       "m_iMoveState": {

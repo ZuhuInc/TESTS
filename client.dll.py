@@ -274,7 +274,7 @@ class CCSPlayerController: # CBasePlayerController
     m_bHasBeenControlledByPlayerThisRound = 0x7DA # bool
     m_nBotsControlledThisRound = 0x7DC # int32_t
     m_bCanControlObservedBot = 0x7E0 # bool
-    m_hPlayerPawn = 0x7E4 # CHandle<C_CSPlayerPawn>
+    m_hPlayerPawn = 0x7DC # CHandle<C_CSPlayerPawn>
     m_hObserverPawn = 0x7E8 # CHandle<C_CSObserverPawn>
     m_bPawnIsAlive = 0x7EC # bool
     m_iPawnHealth = 0x7F0 # uint32_t
@@ -1271,7 +1271,7 @@ class C_BaseEntity: # CEntityInstance
     m_pRenderComponent = 0x320 # CRenderComponent*
     m_pCollision = 0x328 # CCollisionProperty*
     m_iMaxHealth = 0x330 # int32_t
-    m_iHealth = 0x334 # int32_t
+    m_iHealth = 0x324 # int32_t
     m_lifeState = 0x338 # uint8_t
     m_bTakesDamage = 0x339 # bool
     m_nTakeDamageFlags = 0x33C # TakeDamageFlags_t
@@ -1304,7 +1304,7 @@ class C_BaseEntity: # CEntityInstance
     m_flSpeed = 0x3C4 # float
     m_EntClientFlags = 0x3C8 # uint16_t
     m_bClientSideRagdoll = 0x3CA # bool
-    m_iTeamNum = 0x3CB # uint8_t
+    m_iTeamNum = 0x3C3 # uint8_t
     m_spawnflags = 0x3CC # uint32_t
     m_nNextThinkTick = 0x3D0 # GameTick_t
     m_fFlags = 0x3D4 # uint32_t
@@ -1451,7 +1451,7 @@ class C_BasePlayerPawn: # C_BaseCombatCharacter
     m_flLastCameraSetupTime = 0x1270 # GameTime_t
     m_flFOVSensitivityAdjust = 0x1274 # float
     m_flMouseSensitivity = 0x1278 # float
-    m_vOldOrigin = 0x127C # Vector
+    m_vOldOrigin = 0x1274 # Vector
     m_flOldSimulationTime = 0x1288 # float
     m_nLastExecutedCommandNumber = 0x128C # int32_t
     m_nLastExecutedCommandTick = 0x1290 # int32_t

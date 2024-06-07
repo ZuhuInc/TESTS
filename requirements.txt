@@ -1,10 +1,1 @@
-keyboard
-subprocess
-os
-requests
-pymem
-time
-mouse
-pynput
-win32gui
-random
+Non used/useless. Since the .py files is made into a .exe and the libs are in their and get it itself temporarily.

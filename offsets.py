@@ -1,5 +1,5 @@
 class client_dll: # client.dll
-    dwEntityList = 0x19A3328
+    dwEntityList = 0x195C460
     dwForceAttack = 0x1730020
     dwForceAttack2 = 0x17300B0
     dwForceBackward = 0x17302F0

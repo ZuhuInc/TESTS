@@ -1,24 +1,24 @@
 CS2 FREE Python fully external software - Ninuron Free - by, Zuhu
 -----------------------------------------------------------------------------------------
-Funtions:
+Functions:
 -Box ESP
 -Sonar ESP
 -Triggerbot
 -----------------------------------------------------------------------------------------
-Known issues's:
--Box ESP overlay can bug a bit this is mostly fixed by just turning it off and on.
+Known issues:
+-Box ESP overlay can bug a bit, but this is mostly fixed by just turning it off and on.
 -Spamming the Controller will break it.
--Toggle off feature isnt fully flushed out yet.
+-Toggle-off off feature isn't fully flushed out yet.
 -----------------------------------------------------------------------------------------
 Extras:
-it needs to be run as admin so the keybinds can work as best as they can at this moment.
-the software is fully external and does only read from the games memory and do not write.
+It needs to be run as an admin so the keybinds can work as best they can at this moment.
+The software is fully external and only reads from the game's memory and does not write.
 -----------------------------------------------------------------------------------------
 Here are only a few things like:
 -the offsets
 -the client.dll
 -the logo
--the requirements for testing in python form
+-the requirements for testing in Python form
 
 ESP:
 ![image](https://github.com/ZuhuInc/TESTS/assets/66175704/fb78a5e2-4b63-4096-96ba-4b24c1f4002a)

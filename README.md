@@ -24,4 +24,4 @@ ESP:
 ![image](https://github.com/ZuhuInc/TESTS/assets/66175704/fb78a5e2-4b63-4096-96ba-4b24c1f4002a)
 
 Console:
-![image](https://github.com/ZuhuInc/TESTS/assets/66175704/0918b9d1-b3d7-4d00-9f71-860728de2966)
+![image]([https://github.com/ZuhuInc/TESTS/assets/66175704/0918b9d1-b3d7-4d00-9f71-860728de2966](https://i.imgur.com/qOOdgQR_d.png?maxwidth=520&shape=thumb&fidelity=high))

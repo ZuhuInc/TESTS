@@ -7,5 +7,3 @@ m_iHealth = 0x344
 m_vOldOrigin = 0x1324
 m_hPlayerPawn = 0x80C
 m_iIDEntIndex = 0x1458
-
-

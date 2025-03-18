@@ -23,6 +23,11 @@ Here are only a few things like:
 ESP:
 ![image](https://github.com/ZuhuInc/TESTS/assets/66175704/fb78a5e2-4b63-4096-96ba-4b24c1f4002a)
 
-Console:
+Video:                                                                                                         
+[![Watch the video](https://i.imgur.com/gORJsQr.jpeg)](https://youtu.be/OTJloZ6pHzE)                                                                        
+&                                                                                                            
+[![Watch the video](https://i.imgur.com/H9Yo7KM.jpeg)](https://youtu.be/IJC947yjhzo)                                                      
+
+Console:                                                                                                
 ![qOOdgQR](https://github.com/user-attachments/assets/e7a15831-1a60-48ba-a245-d5eb8098a94c)
 

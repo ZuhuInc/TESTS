@@ -2,8 +2,9 @@ CS2 FREE Python fully external software - Ninuron Free - by, Zuhu
 -----------------------------------------------------------------------------------------
 Functions:                                                                                                                                             
 -Box ESP                                                                                                                                             
--Sonar ESP                                                                                                                                             
+-Sonar ESP       [Disabled till Rework]                                                                                                                                      
 -Triggerbot                                                                                                                                             
+-Radar                                                                                                                 
 -----------------------------------------------------------------------------------------
 Known issues:                                                                                                                                             
 -Box ESP overlay can bug a bit, but this is mostly fixed by just turning it off and on.                                                                                                                                             

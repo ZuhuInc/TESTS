@@ -1,5 +1,5 @@
 # This is a TEST, this can be ignored.
 # List of files to download.
 
-MainGame: https://vikingf1le.us.to/d/wBmqewJHti/PEAK.v1.5.a-OFME.rar
-Fix: 
+MainGame: https://vikingf1le.us.to/d/5gOs57yLXB/PEAK.v1.5.a-OFME.rar
+Fix: https://vikingf1le.us.to/d/wFcoij5kC6/PEAK_Fix_Repair_Steam_V2_Generic.rar

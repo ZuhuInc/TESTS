@@ -1,8 +1,8 @@
 # This is a TEST, this can be ignored.
 # List of files to download.
 
-MainGame: https://vikingf1le.us.to/d/gijh8PL3tW/PEAK.v1.5.a-OFME.rar
-Fix: https://vikingf1le.us.to/d/X32tyAkduN/PEAK_Fix_Repair_Steam_V2_Generic.rar
+MainGame: https://drive.google.com/file/d/1xGDIfMf7WL8Ycnc6adDD7qZpUCzLiOVw/view?usp=drive_link
+Fix: https://drive.google.com/file/d/1NFlkW3jyRnIpYO1GUvDi7Hu-m6Dn6x1O/view?usp=drive_link
 
 MainGameBackUP: https://www.dropbox.com/scl/fi/ftosmm4ga6m8p0kxdenu2/PEAK.v1.5.a-OFME.rar?rlkey=6cvkv6c9bk412kwyt0ngqnui3&st=mzol403a&dl=1
 FixBackUP: https://www.dropbox.com/scl/fi/c1956hdvzgx1238o28n5d/PEAK_Fix_Repair_Steam_V2_Generic.rar?rlkey=032m5z979o5pgxpqdcqazcmrw&st=e29guam1&dl=1

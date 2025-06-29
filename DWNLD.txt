@@ -1,10 +1,14 @@
 # This is a TEST, this can be ignored.
 # List of files to download.
 
-Viking (1.5)
+Viking (PEAK 1.5.a)
 MainGame: https://vikingf1le.us.to/d/4piq5GkC69/PEAK.v1.5.a-OFME.rar
 Fix: https://uploads.online-fix.me:2053/uploads/PEAK/Fix%20Repair/PEAK_Fix_Repair_Steam_V2_Generic.rar
 
-DropBox (1.5)
-MainGameBackUP: https://www.dropbox.com/scl/fi/ftosmm4ga6m8p0kxdenu2/PEAK.v1.5.a-OFME.rar?rlkey=6cvkv6c9bk412kwyt0ngqnui3&st=mzol403a&dl=1
-FixBackUP: https://www.dropbox.com/scl/fi/c1956hdvzgx1238o28n5d/PEAK_Fix_Repair_Steam_V2_Generic.rar?rlkey=032m5z979o5pgxpqdcqazcmrw&st=e29guam1&dl=1
+DropBox (PEAK 1.5.a)
+MainGame: https://www.dropbox.com/scl/fi/ftosmm4ga6m8p0kxdenu2/PEAK.v1.5.a-OFME.rar?rlkey=6cvkv6c9bk412kwyt0ngqnui3&st=mzol403a&dl=1
+Fix: https://www.dropbox.com/scl/fi/c1956hdvzgx1238o28n5d/PEAK_Fix_Repair_Steam_V2_Generic.rar?rlkey=032m5z979o5pgxpqdcqazcmrw&st=e29guam1&dl=1
+
+Viking (Crime Sim 1.17)
+MainGame: https://vikingf1le.us.to/d/FuPVadrhVb/CrimeSimulator_Fix_Repair_Steam_V2_Generic.rar
+Fix: https://vikingf1le.us.to/d/FuPVadrhVb/CrimeSimulator_Fix_Repair_Steam_V2_Generic.rar
